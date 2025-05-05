@@ -1,1 +1,1 @@
-
+A responsive portfolio website built with Spring Boot, Spring MVC, and Thymeleaf to showcase projects, skills, and contact info. Features include dynamic project listing, contact form, and optional admin panel. Integrated with MySQL and styled using Bootstrap for a clean, modern UI.
